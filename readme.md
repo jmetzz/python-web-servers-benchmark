@@ -1,5 +1,5 @@
 
-# Python web serves and web frameworks benchmark
+# Python web servers and web frameworks benchmark
 
 This project was based on this [repository](https://github.com/omedhabib/WSGI_Benchmarks)
 and the results published via a 2-parts article: 
