@@ -7,7 +7,7 @@ and the results published via a 2-parts article:
 and 
 [part 2](https://blog.appdynamics.com/engineering/a-performance-analysis-of-python-wsgi-servers-part-2/).
 
-However, since I could not reproduce the experiment on Mac OS box, I'v decided to adapt and extend 
+However, since I could not reproduce the experiment on Mac OS box, I've decided to adapt and extend 
 the work by [Kevin Goldberg](https://blog.appdynamics.com/author/kevin/).
 
 
@@ -15,9 +15,10 @@ the work by [Kevin Goldberg](https://blog.appdynamics.com/author/kevin/).
 ## Steps to reproduce benchmarks
 
 1. Install docker
-2. Prepare the python the conda environment. See the environment.yml file
-3. Run run.sh <output directory>
-4. Run processing/summary.py
+2. Prepare the python conda environment. See the `environment.yml` file
+3. Run `run.sh -h` to learn how to use the script
+4. Activate the `benchmark` environment
+5. Run `python -m processing/app.py -i <input path> -o <output path>` 
 
 
 Some useful commands for testing and debug: 
