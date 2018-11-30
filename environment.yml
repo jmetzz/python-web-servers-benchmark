@@ -1,0 +1,11 @@
+name: benchmark
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - coloredlogs
+

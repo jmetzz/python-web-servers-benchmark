@@ -1,0 +1,122 @@
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.44%             9.363MiB / 512MiB   1.83%               1.4MB / 710kB       0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.44%             9.363MiB / 512MiB   1.83%               1.4MB / 710kB       0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         156.42%             9.363MiB / 512MiB   1.83%               1.67MB / 1.24MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         156.42%             9.363MiB / 512MiB   1.83%               1.67MB / 1.24MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         158.86%             9.363MiB / 512MiB   1.83%               2.44MB / 1.78MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         158.86%             9.363MiB / 512MiB   1.83%               2.44MB / 1.78MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         162.78%             9.328MiB / 512MiB   1.82%               2.73MB / 2.31MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         162.78%             9.328MiB / 512MiB   1.82%               2.73MB / 2.31MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         107.35%             9.453MiB / 512MiB   1.85%               2.99MB / 2.79MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         107.35%             9.453MiB / 512MiB   1.85%               2.99MB / 2.79MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         148.09%             9.207MiB / 512MiB   1.80%               3.24MB / 3.26MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         148.09%             9.207MiB / 512MiB   1.80%               3.24MB / 3.26MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         152.87%             9.207MiB / 512MiB   1.80%               3.96MB / 3.77MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         152.87%             9.207MiB / 512MiB   1.80%               3.96MB / 3.77MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.49%             9.195MiB / 512MiB   1.80%               4.22MB / 4.32MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.49%             9.195MiB / 512MiB   1.80%               4.22MB / 4.32MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         154.92%             9.195MiB / 512MiB   1.80%               4.52MB / 4.89MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         154.92%             9.195MiB / 512MiB   1.80%               4.52MB / 4.89MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         156.65%             9.168MiB / 512MiB   1.79%               4.79MB / 5.42MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         156.65%             9.168MiB / 512MiB   1.79%               4.79MB / 5.42MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         143.97%             9.156MiB / 512MiB   1.79%               5MB / 5.91MB        0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         143.97%             9.156MiB / 512MiB   1.79%               5MB / 5.91MB        0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.16%             9.148MiB / 512MiB   1.79%               5.24MB / 6.42MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.16%             9.148MiB / 512MiB   1.79%               5.24MB / 6.42MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         155.36%             9.148MiB / 512MiB   1.79%               5.53MB / 6.98MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         155.36%             9.148MiB / 512MiB   1.79%               5.53MB / 6.98MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         157.28%             9.145MiB / 512MiB   1.79%               5.81MB / 7.53MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         157.28%             9.145MiB / 512MiB   1.79%               5.81MB / 7.53MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.79%             9.145MiB / 512MiB   1.79%               6.22MB / 8.05MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.79%             9.145MiB / 512MiB   1.79%               6.22MB / 8.05MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         109.71%             9.145MiB / 512MiB   1.79%               6.57MB / 8.46MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         109.71%             9.145MiB / 512MiB   1.79%               6.57MB / 8.46MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         149.11%             9.137MiB / 512MiB   1.78%               6.78MB / 8.93MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         149.11%             9.137MiB / 512MiB   1.78%               6.78MB / 8.93MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         143.48%             9.137MiB / 512MiB   1.78%               6.99MB / 9.4MB      0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         143.48%             9.137MiB / 512MiB   1.78%               6.99MB / 9.4MB      0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         154.41%             9.137MiB / 512MiB   1.78%               7.21MB / 9.91MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         154.41%             9.137MiB / 512MiB   1.78%               7.21MB / 9.91MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.19%             9.137MiB / 512MiB   1.78%               7.4MB / 10.4MB      0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.19%             9.137MiB / 512MiB   1.78%               7.4MB / 10.4MB      0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.72%             9.133MiB / 512MiB   1.78%               7.61MB / 10.8MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.72%             9.133MiB / 512MiB   1.78%               7.61MB / 10.8MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.19%             9.133MiB / 512MiB   1.78%               7.79MB / 11.3MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.19%             9.133MiB / 512MiB   1.78%               7.79MB / 11.3MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         146.75%             9.133MiB / 512MiB   1.78%               8.01MB / 11.8MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         146.75%             9.133MiB / 512MiB   1.78%               8.01MB / 11.8MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.75%             9.133MiB / 512MiB   1.78%               8.19MB / 12.2MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         147.75%             9.133MiB / 512MiB   1.78%               8.19MB / 12.2MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         148.70%             9.133MiB / 512MiB   1.78%               8.38MB / 12.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         148.70%             9.133MiB / 512MiB   1.78%               8.38MB / 12.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.17%             9.258MiB / 512MiB   1.81%               8.62MB / 13.1MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         151.17%             9.258MiB / 512MiB   1.81%               8.62MB / 13.1MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         150.93%             9.258MiB / 512MiB   1.81%               8.83MB / 13.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         150.93%             9.258MiB / 512MiB   1.81%               8.83MB / 13.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         145.15%             9.258MiB / 512MiB   1.81%               9.07MB / 14.1MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         145.15%             9.258MiB / 512MiB   1.81%               9.07MB / 14.1MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         137.19%             9.137MiB / 512MiB   1.78%               9.27MB / 14.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         137.19%             9.137MiB / 512MiB   1.78%               9.27MB / 14.6MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         38.73%              9.141MiB / 512MiB   1.79%               9.32MB / 14.7MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         38.73%              9.141MiB / 512MiB   1.79%               9.32MB / 14.7MB     0B / 0B             5
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+ec166fc1070d        wsgi-server         0.02%               9.121MiB / 512MiB   1.78%               9.32MB / 14.7MB     0B / 0B             5

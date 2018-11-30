@@ -1,0 +1,9 @@
+Running 30s test @ http://172.17.0.2:9808
+  4 threads and 800 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   224.36ms  279.47ms   1.98s    88.15%
+    Req/Sec   475.99    308.05     2.08k    80.45%
+  51507 requests in 30.15s, 7.17MB read
+  Socket errors: connect 0, read 0, write 0, timeout 605
+Requests/sec:   1708.64
+Transfer/sec:    243.61KB

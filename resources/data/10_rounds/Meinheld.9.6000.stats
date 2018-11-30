@@ -1,0 +1,122 @@
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         99.60%              8.75MiB / 512MiB    1.71%               1.72MB / 1.26MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         107.98%             7.805MiB / 512MiB   1.52%               3.84MB / 2.7MB      0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         107.98%             7.805MiB / 512MiB   1.52%               3.84MB / 2.7MB      0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         104.33%             7.684MiB / 512MiB   1.50%               5.8MB / 4.08MB      0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         104.33%             7.684MiB / 512MiB   1.50%               5.8MB / 4.08MB      0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         110.82%             7.738MiB / 512MiB   1.51%               8.48MB / 5.64MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         110.82%             7.738MiB / 512MiB   1.51%               8.48MB / 5.64MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         97.67%              7.703MiB / 512MiB   1.50%               10.4MB / 7.25MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         97.67%              7.703MiB / 512MiB   1.50%               10.4MB / 7.25MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         93.72%              7.652MiB / 512MiB   1.49%               11.9MB / 8.65MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         93.72%              7.652MiB / 512MiB   1.49%               11.9MB / 8.65MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         81.20%              7.652MiB / 512MiB   1.49%               13.4MB / 9.74MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         81.20%              7.652MiB / 512MiB   1.49%               13.4MB / 9.74MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         80.46%              7.633MiB / 512MiB   1.49%               14.7MB / 10.9MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         80.46%              7.633MiB / 512MiB   1.49%               14.7MB / 10.9MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         61.50%              7.633MiB / 512MiB   1.49%               16.3MB / 11.8MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         61.50%              7.633MiB / 512MiB   1.49%               16.3MB / 11.8MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         56.23%              7.633MiB / 512MiB   1.49%               17.6MB / 12.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         56.23%              7.633MiB / 512MiB   1.49%               17.6MB / 12.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         67.44%              7.629MiB / 512MiB   1.49%               18.7MB / 13.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         67.44%              7.629MiB / 512MiB   1.49%               18.7MB / 13.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         70.90%              7.637MiB / 512MiB   1.49%               19.8MB / 14.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         70.90%              7.637MiB / 512MiB   1.49%               19.8MB / 14.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         69.09%              7.648MiB / 512MiB   1.49%               20.9MB / 15.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         69.09%              7.648MiB / 512MiB   1.49%               20.9MB / 15.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         47.00%              7.648MiB / 512MiB   1.49%               22MB / 16.1MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         47.00%              7.648MiB / 512MiB   1.49%               22MB / 16.1MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         70.92%              7.648MiB / 512MiB   1.49%               23.2MB / 17.3MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         70.92%              7.648MiB / 512MiB   1.49%               23.2MB / 17.3MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         80.09%              7.645MiB / 512MiB   1.49%               24.5MB / 18.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         80.09%              7.645MiB / 512MiB   1.49%               24.5MB / 18.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         63.12%              7.793MiB / 512MiB   1.52%               25.6MB / 19.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         63.12%              7.793MiB / 512MiB   1.52%               25.6MB / 19.4MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         77.73%              7.789MiB / 512MiB   1.52%               26.9MB / 20.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         77.73%              7.789MiB / 512MiB   1.52%               26.9MB / 20.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         59.38%              7.871MiB / 512MiB   1.54%               28MB / 21.7MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         59.38%              7.871MiB / 512MiB   1.54%               28MB / 21.7MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         65.13%              7.852MiB / 512MiB   1.53%               29.3MB / 22.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         65.13%              7.852MiB / 512MiB   1.53%               29.3MB / 22.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         74.88%              7.922MiB / 512MiB   1.55%               30.6MB / 23.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         74.88%              7.922MiB / 512MiB   1.55%               30.6MB / 23.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         69.39%              7.938MiB / 512MiB   1.55%               31.6MB / 24.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         69.39%              7.938MiB / 512MiB   1.55%               31.6MB / 24.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         65.54%              7.922MiB / 512MiB   1.55%               32.8MB / 25.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         65.54%              7.922MiB / 512MiB   1.55%               32.8MB / 25.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         63.45%              7.891MiB / 512MiB   1.54%               34MB / 26.7MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         63.45%              7.891MiB / 512MiB   1.54%               34MB / 26.7MB       0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         71.70%              7.863MiB / 512MiB   1.54%               35.2MB / 27.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         71.70%              7.863MiB / 512MiB   1.54%               35.2MB / 27.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         71.86%              7.863MiB / 512MiB   1.54%               36.3MB / 28.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         71.86%              7.863MiB / 512MiB   1.54%               36.3MB / 28.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         67.08%              7.867MiB / 512MiB   1.54%               37.4MB / 29.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         67.08%              7.867MiB / 512MiB   1.54%               37.4MB / 29.6MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         78.20%              7.855MiB / 512MiB   1.53%               38.8MB / 30.8MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         78.20%              7.855MiB / 512MiB   1.53%               38.8MB / 30.8MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         50.33%              7.855MiB / 512MiB   1.53%               39.8MB / 31.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         50.33%              7.855MiB / 512MiB   1.53%               39.8MB / 31.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         61.83%              8.012MiB / 512MiB   1.56%               41.3MB / 32.5MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         61.83%              8.012MiB / 512MiB   1.56%               41.3MB / 32.5MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         28.11%              8.121MiB / 512MiB   1.59%               41.5MB / 32.7MB     0B / 0B             1
+[2J[HCONTAINER ID        NAME                CPU %               MEM USAGE / LIMIT   MEM %               NET I/O             BLOCK I/O           PIDS
+220c089a2217        wsgi-server         28.11%              8.121MiB / 512MiB   1.59%               41.5MB / 32.7MB     0B / 0B             1

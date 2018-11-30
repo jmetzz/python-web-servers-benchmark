@@ -1,5 +1,32 @@
 # Created by .ignore support plugin (hsz.mobi)
-output*/
+.idea
+
+target
+
+.DS_Store
+
+# TODO: remove this once the apps are ready ;)
 wsgi-webapps
 
-.idea
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+
